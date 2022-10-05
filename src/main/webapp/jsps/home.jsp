@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to jenkins Github WebHook DEMO Program.</h1>
+<h1 align="center">Welcome to jenkins Github WebHook Demo.</h1>
 <h1 align="center">  DevOps Cloud Institute - GOOD Training center for DevOps with AWS in Sadar Sagar India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
